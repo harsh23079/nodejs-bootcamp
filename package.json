@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "cli-color": "^2.0.3"
+    "cli-color": "^2.0.3",
+    "nodemon": "^2.0.21"
   }
 }
